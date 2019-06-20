@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": "next-test.pliik.io",
+  "name": "next-test",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next@canary"
+    }
+  ]
+}
