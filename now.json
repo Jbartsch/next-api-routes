@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "next-test.pliik.io",
+  "alias": "next-api-routes-test",
   "name": "next-test",
   "builds": [
     {
